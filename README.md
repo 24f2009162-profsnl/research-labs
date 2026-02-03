@@ -30,8 +30,6 @@ At a high level, the app evolves through these phases:
 
 ## 2. Tech Stack
 
-You can adapt this section to your actual stack; here is a default template:
-
 - **Frontend:** React + TypeScript, Vite or Next.js.
 - **Styling:** Tailwind CSS / Chakra UI (mobile‑first responsive design).
 - **Wallets:**  
@@ -66,25 +64,17 @@ This repo follows the official **Belt System** of the Builder Track:
 
 ---
 
-### 3.2 Level 1 – White Belt (Wallets & First Transactions)
+### Contact Us
 
-**Goal:** Build a simple Stellar dApp on testnet that can connect a wallet, display balance, and send XLM.
+We are **open for feedback** and collaboration.
 
-**Features implemented:**
+- Telegram: **Alfredo** – `@alfredo` (preferred for quick questions and dev chats)  
+- Rise In: **Twili** – available via the Rise In platform for program‑related discussions and feedback
 
-- Freighter wallet setup and connection on testnet.
-- Display connected wallet address and XLM balance.
-- Simple “Send XLM” form (destination + amount).
-- Transaction feedback:
-  - Pending → success/fail.
-  - Transaction hash with link to Stellar Explorer.
-
-**How to run (Level 1):**
-
-```bash
-# Clone
-git clone <this-repo-url>
-cd <repo-folder>
+Feel free to reach out for:
+- Suggestions and feature ideas
+- Code reviews or pairing
+- Feedback on UX, architecture, or documentation
 
 # Install
 npm install
