@@ -2,7 +2,7 @@
 
 Welcome to **Twisha Shriyam Research Lab’s** Stellar Journey to Mastery project repository.
 
-This repo tracks a full progression through the **Stellar Journey to Mastery: Monthly Builder Challenges** – from basic wallets to a production‑style dApp with real users and metrics.[web:1][web:40]
+This repo tracks a full progression through the **Stellar Journey to Mastery: Monthly Builder Challenges** – from basic wallets to a production‑style dApp with real users and metrics.
 
 > Tracks covered:
 > - 🥋 **Builder Track (Belts)** – Levels 1–6
@@ -17,14 +17,14 @@ This project is a research & engineering sandbox under **Twisha Shriyam Research
 - Learning Stellar and Soroban by **shipping real dApps**.
 - Iteratively evolving one codebase from:
   - ⚪️ Wallet + first transaction →  
-  - ⚫️ Production‑ready application with metrics, security, and Demo Day pitch.[web:1][web:40]
+  - ⚫️ Production‑ready application with metrics, security, and Demo Day pitch.
 - Optionally contributing back to the ecosystem via the **Open Source Track**.
 
 At a high level, the app evolves through these phases:
 
 - **Level 1–2** – Simple payment dApp → multi‑wallet + basic Soroban contract + events.
 - **Level 3–4** – Mini dApp with tests, caching, CI/CD, mobile responsiveness, advanced contracts.
-- **Level 5–6** – Real MVP with users, feedback, metrics, monitoring, security, advanced features (e.g., fee sponsorship or multi‑sig).[web:28][web:45][web:46]
+- **Level 5–6** – Real MVP with users, feedback, metrics, monitoring, security, advanced features (e.g., fee sponsorship or multi‑sig).
 
 ---
 
@@ -35,13 +35,13 @@ You can adapt this section to your actual stack; here is a default template:
 - **Frontend:** React + TypeScript, Vite or Next.js.
 - **Styling:** Tailwind CSS / Chakra UI (mobile‑first responsive design).
 - **Wallets:**  
-  - Freighter, xBull, Albedo (via `@creit.tech/stellar-wallets-kit`).[web:30][web:34][web:37]
+  - Freighter, xBull, Albedo (via `@creit.tech/stellar-wallets-kit`).
 - **Blockchain / Smart Contracts:**
   - Stellar testnet / Futurenet.
-  - Soroban smart contracts (Rust).[web:35][web:44]
+  - Soroban smart contracts (Rust).
 - **Backend / Indexer (later belts):**
   - Node.js or Python service for event ingestion + indexing.
-  - PostgreSQL / Supabase for storing indexed data and metrics.[web:39][web:55]
+  - PostgreSQL / Supabase for storing indexed data and metrics.
 - **Tooling & Infrastructure (later belts):**
   - GitHub Actions for CI/CD.
   - Vercel / Netlify for deployments.
@@ -53,7 +53,7 @@ You can adapt this section to your actual stack; here is a default template:
 
 ### 3.1 Belt Levels (Program Summary)
 
-This repo follows the official **Belt System** of the Builder Track:[web:1][web:40]
+This repo follows the official **Belt System** of the Builder Track:
 
 | Belt | Level | Focus |
 |------|-------|-------|
@@ -68,7 +68,7 @@ This repo follows the official **Belt System** of the Builder Track:[web:1][web:
 
 ### 3.2 Level 1 – White Belt (Wallets & First Transactions)
 
-**Goal:** Build a simple Stellar dApp on testnet that can connect a wallet, display balance, and send XLM.[web:28]
+**Goal:** Build a simple Stellar dApp on testnet that can connect a wallet, display balance, and send XLM.
 
 **Features implemented:**
 
