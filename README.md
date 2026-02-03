@@ -76,8 +76,3 @@ Feel free to reach out for:
 - Code reviews or pairing
 - Feedback on UX, architecture, or documentation
 
-# Install
-npm install
-
-# Development
-npm run dev
