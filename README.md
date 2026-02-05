@@ -74,14 +74,13 @@ This repo follows the official **Belt System** of the Builder Track:
   - Success / failure state  
   - Transaction hash / confirmation message
 
-  # KPP Level 2 extends the student wallet into a multi‑wallet Stellar dApp with a simple Soroban contract and real‑time status updates for contract calls.
+  # KPP Level 2 extends the student wallet into a multi‑wallet Stellar dApp with a simple Soroban contract and real‑time status updates for contract calls still developing .
   
 ### Contact Us
-
 We are **open for feedback** and collaboration.
+(preferred for quick questions and dev chats)  
+- Rise In: **Twili** OR Twisha on the whatsapp group of Rise in – available via the Rise In platform and whatsapp for program‑related discussions and feedback
 
-- Telegram: **Alfredo** – `@alfredo` (preferred for quick questions and dev chats)  
-- Rise In: **Twili** – available via the Rise In platform for program‑related discussions and feedback
 
 Feel free to reach out for:
 - Suggestions and feature ideas
