@@ -1,24 +1,20 @@
 # Twisha Shriyam Research Lab – Stellar Journey to Mastery
 
-Welcome to **Twisha Shriyam Research Lab’s** Stellar Journey to Mastery project repository.
+# Kaiitzn Pocket Pay – a simple Stellar testnet wallet for students, built as the foundation of a campus micro‑payments app.
 
 This repo tracks a full progression through the **Stellar Journey to Mastery: Monthly Builder Challenges** – from basic wallets to a production‑style dApp with real users and metrics.
 
 > Tracks covered:
 > - 🥋 **Builder Track (Belts)** – Levels 1–6
-> - 🚀 **Open Source Track** – High‑impact contributions to Stellar‑native projects
-
----
 
 ## 1. Project Overview
 
-This project is a research & engineering sandbox under **Twisha Shriyam Research Lab**, focused on:
+This project is a research & engineering sandbox under **Twisha Shriyam Research Lab for kaiitzn startup**, focused on:
 
 - Learning Stellar and Soroban by **shipping real dApps**.
 - Iteratively evolving one codebase from:
   - ⚪️ Wallet + first transaction →  
   - ⚫️ Production‑ready application with metrics, security, and Demo Day pitch.
-- Optionally contributing back to the ecosystem via the **Open Source Track**.
 
 At a high level, the app evolves through these phases:
 
