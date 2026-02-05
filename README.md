@@ -1,6 +1,6 @@
 # Twisha Shriyam Research Lab – Stellar Journey to Mastery
 
-# Kaiitzn Pocket Pay – a simple Stellar testnet wallet for students, built as the foundation of a campus micro‑payments app.
+# Kaiitzn Pocket Pay – a simple Stellar testnet wallet for students, built as the foundation of a campus micro‑payments and earning app.
 
 This repo tracks a full progression through the **Stellar Journey to Mastery: Monthly Builder Challenges** – from basic wallets to a production‑style dApp with real users and metrics.
 
@@ -64,6 +64,16 @@ This repo follows the official **Belt System** of the Builder Track:
 ### Wallet connected
 ![Wallet connected](proof/wallet.png)
 
+**Implemented Level 1 requirements:**
+
+- ✅ Freighter wallet setup and connection on **Stellar Testnet** (Twisha Shriyam Research Lab – KPP)  
+- ✅ Wallet connect and disconnect buttons in the UI  
+- ✅ Fetch and display connected wallet’s **XLM balance** on Testnet  
+- ✅ Send **XLM transaction on Testnet** from the connected wallet  
+- ✅ Show transaction feedback:
+  - Success / failure state  
+  - Transaction hash / confirmation message
+  
 ### Contact Us
 
 We are **open for feedback** and collaboration.
