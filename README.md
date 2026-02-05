@@ -73,6 +73,8 @@ This repo follows the official **Belt System** of the Builder Track:
 - ✅ Show transaction feedback:
   - Success / failure state  
   - Transaction hash / confirmation message
+
+  # KPP Level 2 extends the student wallet into a multi‑wallet Stellar dApp with a simple Soroban contract and real‑time status updates for contract calls.
   
 ### Contact Us
 
