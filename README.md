@@ -63,6 +63,10 @@ This repo follows the official **Belt System** of the Builder Track:
 | ⚫️ Black | 6 | Scale to 20–30+ users, metrics, security, monitoring, Demo Day |
 
 ---
+## Screenshots
+
+### Wallet connected
+![Wallet connected](proof/wallet.png)
 
 ### Contact Us
 
